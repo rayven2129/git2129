@@ -1,0 +1,18 @@
+		Meralco Receipt
+----------------------------------------------
+----------------------------------------------
+
+Customer Name:  asdaswd
+
+Customer Address:  asdasd
+
+Kilowatt per Hour: 141.0 KwH
+
+Amount in KWH: P1194.27
+
+Amount Pay: P6000.0
+
+Change Value: P4805.73
+
+----------------------------------------------
+Thank you for using our services
